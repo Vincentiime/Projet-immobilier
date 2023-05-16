@@ -1,6 +1,7 @@
 # Projet-immobilier
 
 """ Projet obsolète depuis janvier 2023 avec l'arrivée d'un nouveau modèle de calcul de DPE et des données fraiches organisées totalement différemment."""
+
 Source des données data.gouv.fr et ademe.fr
 
 Pour utiliser le streamlit :
